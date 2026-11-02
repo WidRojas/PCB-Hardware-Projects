@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Audio_matrix_imports") (type "KiCad") (uri "/home/widar/KicadProjects/Audio_Matrix_imports") (options "") (descr ""))
+)
