@@ -4,7 +4,8 @@ This project involved creating a buck converter which could regulate a 10V power
 
 ### PCB Revision #1
 ![image](./Buck/Buck_PCB_V1.png)
-Currently awaiting second revision, due to high currents causing gate driver IC to fry
+*Currently awaiting second revision, due to high currents causing gate driver IC to fry*
+
 ![image](./Buck/Buck_Solder_V1.jpg)
 
 ## [LED Matrix](./Audio_Matrix/)
